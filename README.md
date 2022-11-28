@@ -12,4 +12,8 @@
 - Varios tipos de areia diferente
 - Monstros(coms opçao de On/Off)
 
+## Informaçoes tecnicas
+- Ele precisar do love2d para funcionar
+- ele foi feito no visual studio code
+
 # Parabens, Voce chegou ao final da lista
