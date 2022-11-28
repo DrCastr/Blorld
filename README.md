@@ -15,5 +15,6 @@
 ## Informaçoes tecnicas
 - Ele precisar do love2d para funcionar
 - ele foi feito no visual studio code
+- Ele usa a linguagem lua
 
 # Parabens, Voce chegou ao final da lista
