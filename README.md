@@ -18,3 +18,9 @@
 - Ele usa a linguagem lua
 
 # Parabens, Voce chegou ao final da lista
+
+
+
+
+## Extra
+voce sabia que o jogo foi feito durante o criador ainda estava aprendendo Lua
